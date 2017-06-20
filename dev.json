@@ -16,14 +16,7 @@
       "limitMemory": "asdfkldfjshdsf",
       "envvars": [],
       "secenvvars": [],
-      "portconf": [
-        {
-          "port": "ababa",
-          "subdomain": "nana",
-          "domain": "anana",
-          "createRoute": true
-        }
-      ],
+      "portconf": [],
       "volmnts": []
     }
   ],
