@@ -1,0 +1,41 @@
+{
+  "projectName": "demoprod",
+  "projectDesc": "demodesc",
+  "repo": "https://demorepo3.com/test.git",
+  "email": "basvi05@ca.com",
+  "imageconfigs": [
+    {
+      "serviceName": "servicename1",
+      "imageRegistry": "imgregistry1",
+      "imageRepo": "imgrepo1",
+      "imageName": "imgname",
+      "imageTag": "imgtag",
+      "requestCpu": "3",
+      "limitCpu": "5",
+      "requestMemory": "500m",
+      "limitMemory": "2g",
+      "envvars": [
+        {
+          "variableName": "var1",
+          "variableValue": "val1"
+        }
+      ],
+      "secenvvars": [],
+      "portconf": [],
+      "volmnts": [
+        {
+          "name": "mnt1",
+          "mountPath": "/var/test",
+          "volumeClaimName": "claim1"
+        }
+      ]
+    }
+  ],
+  "secrets": [],
+  "volumeclaims": [
+    {
+      "name": "volclaim1",
+      "requestStorage": "volclaimstorage1"
+    }
+  ]
+}
