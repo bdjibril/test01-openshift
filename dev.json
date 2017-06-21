@@ -25,16 +25,6 @@
       "volmnts": []
     }
   ],
-  "secrets": [
-    {
-      "name": "secret1",
-      "data": [
-        {
-          "varName": "afv",
-          "varValue": "Rome"
-        }
-      ]
-    }
-  ],
+  "secrets": [],
   "volumeclaims": []
 }
