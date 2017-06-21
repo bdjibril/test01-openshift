@@ -14,7 +14,12 @@
       "limitCpu": "HDFSKHKJDFSJ",
       "requestMemory": "FHJASDFHSADHF",
       "limitMemory": "SADJFHDS",
-      "envvars": [],
+      "envvars": [
+        {
+          "variableName": "val1",
+          "variableValue": "val2"
+        }
+      ],
       "secenvvars": [],
       "portconf": [],
       "volmnts": []
