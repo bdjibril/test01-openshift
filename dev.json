@@ -5,21 +5,6 @@
   "email": "basvi05@ca.com",
   "imageconfigs": [
     {
-      "serviceName": "OKI",
-      "imageRegistry": "sajhkhs",
-      "imageRepo": "sahfsadfhk",
-      "imageName": "secc",
-      "imageTag": "sebh",
-      "requestCpu": "HDJKSAHFKSHDF",
-      "limitCpu": "HDFSKHKJDFSJ",
-      "requestMemory": "FHJASDFHSADHF",
-      "limitMemory": "SADJFHDS",
-      "envvars": [],
-      "secenvvars": [],
-      "portconf": [],
-      "volmnts": []
-    },
-    {
       "serviceName": "dfgmk/sdgm",
       "imageRegistry": "fdg;kdsfjg",
       "imageRepo": "kdslv",
