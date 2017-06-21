@@ -4,6 +4,16 @@
   "repo": "https://demorepo3.com/test.git",
   "email": "basvi05@ca.com",
   "imageconfigs": [],
-  "secrets": [],
+  "secrets": [
+    {
+      "name": "secret1",
+      "data": [
+        {
+          "varName": "data2",
+          "varValue": "datav"
+        }
+      ]
+    }
+  ],
   "volumeclaims": []
 }
