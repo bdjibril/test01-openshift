@@ -18,10 +18,10 @@
       "secenvvars": [],
       "portconf": [
         {
-          "port": "12",
+          "port": "1255",
           "subdomain": "sdjf",
           "domain": "sjdbf",
-          "createRoute": true
+          "createRoute": false
         }
       ],
       "volmnts": []
