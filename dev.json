@@ -14,12 +14,7 @@
       "limitCpu": "3",
       "requestMemory": "512m",
       "limitMemory": "1g",
-      "envvars": [
-        {
-          "variableName": "password",
-          "variableValue": "abac67"
-        }
-      ],
+      "envvars": [],
       "secenvvars": [],
       "portconf": [],
       "volmnts": []
