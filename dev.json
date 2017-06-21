@@ -3,7 +3,46 @@
   "projectDesc": "Just a Dummy Project",
   "repo": "https://github.com/bdjibril/test01_openshift.git",
   "email": "bah.djibril@ca.com",
-  "imageconfigs": [],
+  "imageconfigs": [
+    {
+      "serviceName": "openshiftInterface",
+      "imageRegistry": "ca.com:5000",
+      "imageRepo": "commonStack",
+      "imageName": "openshiftInterface",
+      "imageTag": "latest",
+      "requestCpu": "1",
+      "limitCpu": "1",
+      "requestMemory": "512m",
+      "limitMemory": "512m",
+      "envvars": [
+        {
+          "variableName": "PORT",
+          "variableValue": "80"
+        }
+      ],
+      "secenvvars": [],
+      "portconf": [
+        {
+          "port": "80",
+          "subdomain": "SD",
+          "domain": "DO",
+          "createRoute": true
+        }
+      ],
+      "volmnts": [
+        {
+          "name": "data",
+          "mountPath": "/opt/CA/data",
+          "volumeClaimName": "data_volumne"
+        }
+      ]
+    }
+  ],
   "secrets": [],
-  "volumeclaims": []
+  "volumeclaims": [
+    {
+      "name": "data_volumne",
+      "requestStorage": "/data_volume"
+    }
+  ]
 }
