@@ -18,7 +18,7 @@
       "secenvvars": [],
       "portconf": [
         {
-          "port": "1255",
+          "port": "jklop",
           "subdomain": "sdjf",
           "domain": "sjdbf",
           "createRoute": false
