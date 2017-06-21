@@ -1,8 +1,8 @@
 {
-  "projectName": "demoprod",
-  "projectDesc": "demodesc",
-  "repo": "https://demorepo3.com/test.git",
-  "email": "basvi05@ca.com",
+  "projectName": "test01_openshift",
+  "projectDesc": "Just a Dummy Project",
+  "repo": "https://github.com/bdjibril/test01_openshift.git",
+  "email": "bah.djibril@ca.com",
   "imageconfigs": [],
   "secrets": [],
   "volumeclaims": []
