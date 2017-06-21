@@ -9,10 +9,6 @@
       "name": "secret1",
       "data": [
         {
-          "varName": "32212",
-          "varValue": "Ghana"
-        },
-        {
           "varName": "223",
           "varValue": "Rome"
         }
