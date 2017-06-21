@@ -18,6 +18,46 @@
       "secenvvars": [],
       "portconf": [],
       "volmnts": []
+    },
+    {
+      "serviceName": "dfgmk/sdgm",
+      "imageRegistry": "fdg;kdsfjg",
+      "imageRepo": "kdslv",
+      "imageName": "dsfkgjsdfg",
+      "imageTag": "mkjl",
+      "requestCpu": "",
+      "limitCpu": "k",
+      "requestMemory": "hj",
+      "limitMemory": "klj",
+      "envvars": [],
+      "secenvvars": [
+        {
+          "variableName": "asdfsadf",
+          "variableValue": "sadfdasfdsa"
+        }
+      ],
+      "portconf": [],
+      "volmnts": []
+    },
+    {
+      "serviceName": "",
+      "imageRegistry": "",
+      "imageRepo": "klj",
+      "imageName": "j",
+      "imageTag": "",
+      "requestCpu": "",
+      "limitCpu": "",
+      "requestMemory": "",
+      "limitMemory": "jkljkljl",
+      "envvars": [],
+      "secenvvars": [
+        {
+          "variableName": "asdfsadf",
+          "variableValue": "sadfdasfdsa"
+        }
+      ],
+      "portconf": [],
+      "volmnts": []
     }
   ],
   "secrets": [],
