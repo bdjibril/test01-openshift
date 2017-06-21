@@ -30,8 +30,12 @@
       "name": "secret1",
       "data": [
         {
-          "varName": "oxklvvg",
+          "varName": "a",
           "varValue": "Rome"
+        },
+        {
+          "varName": "b",
+          "varValue": "c"
         }
       ]
     }
