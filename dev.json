@@ -16,7 +16,14 @@
       "limitMemory": "SADJFHDS",
       "envvars": [],
       "secenvvars": [],
-      "portconf": [],
+      "portconf": [
+        {
+          "port": "12",
+          "subdomain": "sdjf",
+          "domain": "sjdbf",
+          "createRoute": true
+        }
+      ],
       "volmnts": []
     }
   ],
