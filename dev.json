@@ -3,48 +3,7 @@
   "projectDesc": "demodesc",
   "repo": "https://demorepo3.com/test.git",
   "email": "basvi05@ca.com",
-  "imageconfigs": [
-    {
-      "serviceName": "dfgmk/sdgm",
-      "imageRegistry": "fdg;kdsfjg",
-      "imageRepo": "kdslv",
-      "imageName": "dsfkgjsdfg",
-      "imageTag": "mkjld",
-      "requestCpu": "hjhd",
-      "limitCpu": "ddk",
-      "requestMemory": "hjdd",
-      "limitMemory": "kljddd",
-      "envvars": [],
-      "secenvvars": [
-        {
-          "variableName": "asdfsadf",
-          "variableValue": "sadfdasfdsa"
-        }
-      ],
-      "portconf": [],
-      "volmnts": []
-    },
-    {
-      "serviceName": "kkjfff",
-      "imageRegistry": "ffkjjklj",
-      "imageRepo": "kljddff",
-      "imageName": "jdddff",
-      "imageTag": "hkddd",
-      "requestCpu": "hddd",
-      "limitCpu": "jkhjdd",
-      "requestMemory": "",
-      "limitMemory": "jkljkljl",
-      "envvars": [],
-      "secenvvars": [
-        {
-          "variableName": "asdfsadf",
-          "variableValue": "sadfdasfdsa"
-        }
-      ],
-      "portconf": [],
-      "volmnts": []
-    }
-  ],
+  "imageconfigs": [],
   "secrets": [],
   "volumeclaims": []
 }
