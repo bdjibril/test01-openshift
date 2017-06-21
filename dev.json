@@ -3,7 +3,28 @@
   "projectDesc": "demodesc",
   "repo": "https://demorepo3.com/test.git",
   "email": "basvi05@ca.com",
-  "imageconfigs": [],
+  "imageconfigs": [
+    {
+      "serviceName": "image1",
+      "imageRegistry": "registry",
+      "imageRepo": "repo",
+      "imageName": "name",
+      "imageTag": "1.1",
+      "requestCpu": "2",
+      "limitCpu": "3",
+      "requestMemory": "512m",
+      "limitMemory": "1g",
+      "envvars": [
+        {
+          "variableName": "password",
+          "variableValue": "abac234"
+        }
+      ],
+      "secenvvars": [],
+      "portconf": [],
+      "volmnts": []
+    }
+  ],
   "secrets": [
     {
       "name": "secret1",
