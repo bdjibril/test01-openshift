@@ -17,7 +17,7 @@
       "envvars": [
         {
           "variableName": "val1",
-          "variableValue": "val2"
+          "variableValue": "455"
         }
       ],
       "secenvvars": [],
