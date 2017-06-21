@@ -9,7 +9,7 @@
       "name": "secret1",
       "data": [
         {
-          "varName": "data2",
+          "varName": "32",
           "varValue": "datav"
         }
       ]
