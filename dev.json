@@ -17,13 +17,7 @@
       "envvars": [],
       "secenvvars": [],
       "portconf": [],
-      "volmnts": [
-        {
-          "name": "allksdfo",
-          "mountPath": "sndfasjdf",
-          "volumeClaimName": "dsfnsadfasd"
-        }
-      ]
+      "volmnts": []
     }
   ],
   "secrets": [],
