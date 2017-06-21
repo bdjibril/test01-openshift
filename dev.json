@@ -16,7 +16,14 @@
       "limitMemory": "asdfkldfjshdsf",
       "envvars": [],
       "secenvvars": [],
-      "portconf": [],
+      "portconf": [
+        {
+          "port": "22",
+          "subdomain": "222",
+          "domain": "222",
+          "createRoute": true
+        }
+      ],
       "volmnts": []
     }
   ],
